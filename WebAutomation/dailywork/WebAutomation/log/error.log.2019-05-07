@@ -1,0 +1,2 @@
+2019-05-07 10:04:04  [ TestNG:116393 ] - [ ERROR ]  [ 贷后_审核列表_审核 ] 测试结果为：[ Fail ] java.lang.AssertionError : 	没有找到：//span[contains(text(),'系统设置')]
+2019-05-07 17:02:50  [ TestNG:42503 ] - [ ERROR ]  [ 贷后_审核列表_审核 ] 测试结果为：[ Fail ] java.lang.AssertionError : 找不到控件：//li[contains(text(),'etnjxj')] expected [true] but found [false]

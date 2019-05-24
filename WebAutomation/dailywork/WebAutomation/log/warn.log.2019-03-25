@@ -1,0 +1,49 @@
+2019-03-25 09:11:41  [ TestNG:62950 ] - [ ERROR ]  [ 贷前_资产录入_手机号三要素 ] 测试结果为：[ Fail ] 找不到控件：//h3[contains(text(),'车300伽马风控贷前报告')] expected [true] but found [false]
+2019-03-25 09:12:41  [ TestNG:48737 ] - [ ERROR ]  [ 贷前_资产录入_手机号三要素 ] 测试结果为：[ Fail ] 找不到控件：//h3[contains(text(),'车300伽马风控贷前报告')] expected [true] but found [false]
+2019-03-25 09:13:16  [ TestNG:83244 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] 找不到控件：//p[contains(text(),'退出')] expected [true] but found [false]
+2019-03-25 10:02:43  [ TestNG:48334 ] - [ ERROR ]  [ 贷前_资产录入_手机号三要素 ] 测试结果为：[ Fail ] 找不到控件：//h3[contains(text(),'车300伽马风控贷前报告')] expected [true] but found [false]
+2019-03-25 10:08:50  [ TestNG:21147 ] - [ ERROR ]  [ 贷前_资产录入_手机号三要素 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-03-25 10:11:44  [ TestNG:21306 ] - [ ERROR ]  [ 贷前_资产录入_手机号三要素 ] 测试结果为：[ Fail ] 找不到控件：//*[@id="root"]/div/div/div[2]/div[1]/span/text() expected [true] but found [false]
+2019-03-25 10:12:55  [ TestNG:21682 ] - [ ERROR ]  [ 贷前_资产录入_手机号三要素 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-03-25 10:15:34  [ TestNG:22828 ] - [ ERROR ]  [ 贷前_资产录入_手机号三要素 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-03-25 10:30:28  [ TestNG:27379 ] - [ ERROR ]  [ 贷前_资产录入_手机号三要素 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-03-25 11:19:30  [ TestNG:26414 ] - [ ERROR ]  [ 贷前_资产录入_手机号三要素 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-03-25 12:01:22  [ TestNG:40798 ] - [ ERROR ]  [ 主体监控_编辑 ] 测试结果为：[ Fail ] 找不到控件：/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[1]/li[1] expected [true] but found [false]
+2019-03-25 12:01:24  [ TestNG:42978 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] unexpected alert open: {Alert text : }
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:1122}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: f64f28e34346aae299bca9fa40b59b59
+*** Element info: {Using=xpath, value=//*[@id='root']/div[1]/div[1]/div[2]/div[1]/div[1]/span[1]}
+2019-03-25 12:01:24  [ TestNG:43290 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] unexpected alert open: {Alert text : }
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds: null
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:1122}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: f64f28e34346aae299bca9fa40b59b59
+2019-03-25 12:03:53  [ TestNG:44337 ] - [ ERROR ]  [ 主体监控_编辑 ] 测试结果为：[ Fail ] 找不到控件：rtz423s expected [true] but found [false]
+2019-03-25 12:04:27  [ TestNG:78375 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] 找不到控件：//p[contains(text(),'退出')] expected [true] but found [false]
+2019-03-25 14:01:29  [ TestNG:63035 ] - [ ERROR ]  [ 用户管理_新增 ] 测试结果为：[ Fail ] 找不到控件：//p[contains(text(),'退出')] expected [true] but found [false]
+2019-03-25 14:03:27  [ TestNG:36137 ] - [ ERROR ]  [ 用户管理_新增 ] 测试结果为：[ Fail ] 贷前反欺诈==贷前 expected [true] but found [false]
+2019-03-25 14:16:10  [ TestNG:12591 ] - [ ERROR ]  [ 用户管理_新增 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-03-25 14:16:23  [ TestNG:25161 ] - [ ERROR ]  [ 用户管理_查看 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-03-25 14:16:32  [ TestNG:34838 ] - [ ERROR ]  [ 用户管理_关联主体 ] 测试结果为：[ Fail ] null
+2019-03-25 14:34:48  [ TestNG:41779 ] - [ ERROR ]  [ 用户管理_查看 ] 测试结果为：[ Fail ] 控件未找到 expected [true] but found [false]
+2019-03-25 14:34:52  [ TestNG:45588 ] - [ ERROR ]  [ 用户管理_查看 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:13279}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 9f64817431aa6dd94e8bd03e83f59056
+2019-03-25 14:42:59  [ TestNG:42189 ] - [ ERROR ]  [ 用户管理_关联主体 ] 测试结果为：[ Fail ] 找不到控件：/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[3] expected [true] but found [false]

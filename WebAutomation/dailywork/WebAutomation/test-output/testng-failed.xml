@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [快定价]" parallel="tests">
+  <listeners>
+    <listener class-name="extentx.ExtentTestNGITestListener"/>
+  </listeners>
+  <test name="TestSuit1(failed)" parallel="tests">
+    <classes>
+      <class name="cases.WebUITest">
+        <methods>
+          <include name="test" invocation-numbers="1"/>
+          <include name="destroy"/>
+          <include name="init"/>
+          <include name="reset"/>
+        </methods>
+      </class> <!-- cases.WebUITest -->
+    </classes>
+  </test> <!-- TestSuit1(failed) -->
+</suite> <!-- Failed suite [快定价] -->

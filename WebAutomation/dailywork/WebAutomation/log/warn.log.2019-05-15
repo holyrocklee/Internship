@@ -1,0 +1,2 @@
+2019-05-15 17:04:06  [ TestNG:118765 ] - [ ERROR ]  [ 贷后_审核列表_审核 ] 测试结果为：[ Fail ] java.lang.AssertionError : 	没有找到：//span[contains(text(),'系统设置')]
+2019-05-15 17:04:43  [ TestNG:156168 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] java.lang.AssertionError : 找不到控件：//p[contains(text(),'退出')] expected [true] but found [false]

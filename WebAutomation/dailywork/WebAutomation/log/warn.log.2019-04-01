@@ -1,0 +1,65 @@
+2019-04-01 09:51:37  [ TestNG:64984 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] 找不到控件：//a[contains(text(),'查看')] expected [true] but found [false]
+2019-04-01 09:56:37  [ TestNG:60827 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_身份证两要素 ] 测试结果为：[ Fail ] 	没有找到：//a[contains(text(),'查看')]
+2019-04-01 09:56:53  [ TestNG:76622 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_车辆要素 ] 测试结果为：[ Fail ] null
+2019-04-01 10:04:18  [ TestNG:93565 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_车辆要素 ] 测试结果为：[ Fail ] null
+2019-04-01 10:04:28  [ TestNG:103077 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 	没有找到：//span[@title='贷前反欺诈']
+2019-04-01 14:47:09  [ TestNG:11095 ] - [ ERROR ]  [ 贷前反欺诈_资产查询 ] 测试结果为：[ Fail ] 	没有找到：//button[@type='submit']
+2019-04-01 17:02:39  [ TestNG:50458 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] 找不到控件：//p[contains(text(),'退出')] expected [true] but found [false]
+2019-04-01 17:09:13  [ TestNG:11846 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] stale element reference: element is not attached to the page document
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:4101}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: b701197dfd9e8a75306ca50674b0b042
+2019-04-01 17:15:03  [ TestNG:12554 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] stale element reference: element is not attached to the page document
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:4596}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: b934a915fd977c06098e926c73b9df68
+2019-04-01 17:18:33  [ TestNG:27508 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] 2元开头0 expected [true] but found [false]
+2019-04-01 17:18:52  [ TestNG:46607 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:4957}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: bdac65b7b6f72947d07755eb1c35c6b6
+2019-04-01 17:23:22  [ TestNG:28909 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] 2元开头0元 expected [true] but found [false]
+2019-04-01 17:27:54  [ TestNG:11534 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] stale element reference: element is not attached to the page document
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:5864}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: deea4c23a0c488cbe4099d63f5462b2e
+2019-04-01 17:28:30  [ TestNG:47602 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] 找不到控件：//p[contains(text(),'退出')] expected [true] but found [false]
+2019-04-01 17:41:58  [ TestNG:28431 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] 2元开头/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[5]元 expected [true] but found [false]
+2019-04-01 17:51:25  [ TestNG:38287 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] 2元开头/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[5]元 expected [true] but found [false]
+2019-04-01 17:51:36  [ TestNG:49662 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:7975}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 8aeeb8645ae0687b48bbb32fd65a9a83
+2019-04-01 17:53:36  [ TestNG:39182 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] 2元==/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[5]元 expected [true] but found [false]
+2019-04-01 18:00:54  [ TestNG:41619 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] 2元==/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[5]元 expected [true] but found [false]
+2019-04-01 18:03:26  [ TestNG:28304 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] 2元==/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[5]元 expected [true] but found [false]

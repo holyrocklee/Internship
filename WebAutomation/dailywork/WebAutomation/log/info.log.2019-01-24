@@ -1,0 +1,44 @@
+2019-01-24 18:28:08  [ TestNG:0 ] - [ INFO ]  此次执行测试共：1条用例。
+2019-01-24 18:28:08  [ TestNG:3 ] - [ INFO ]  第1条：登录
+2019-01-24 18:28:08  [ TestNG:40 ] - [ INFO ]  [打开网站:open:http://kdj.ceshi.che300.com/login, 输入账号:input://*[@id="telephone_1"]:13347808105, 输入密码:input://*[@id="password"]:che300, 输入验证码:input://*[@id="captcha"]:111111, 登录:click://button[@type="submit"], 鼠标悬停:hover://span[@class="name ant-dropdown-trigger"], 注销:click://li[@role="menuitem"]]
+2019-01-24 18:28:12  [ TestNG:4471 ] - [ INFO ]  打开网站:open:http://kdj.ceshi.che300.com/login
+2019-01-24 18:28:12  [ TestNG:4569 ] - [ INFO ]  输入账号:input://*[@id="telephone_1"]:13347808105
+2019-01-24 18:28:12  [ TestNG:4649 ] - [ INFO ]  输入密码:input://*[@id="password"]:che300
+2019-01-24 18:28:12  [ TestNG:4720 ] - [ INFO ]  输入验证码:input://*[@id="captcha"]:111111
+2019-01-24 18:28:15  [ TestNG:7308 ] - [ INFO ]  登录:click://button[@type="submit"]
+2019-01-24 18:28:16  [ TestNG:8417 ] - [ INFO ]  鼠标悬停:hover://span[@class="name ant-dropdown-trigger"]
+2019-01-24 18:28:17  [ TestNG:9540 ] - [ INFO ]  注销:click://li[@role="menuitem"]
+2019-01-24 18:28:17  [ TestNG:9541 ] - [ INFO ]  登录测试结果为：Pass
+2019-01-24 18:44:09  [ TestNG:0 ] - [ INFO ]  此次执行测试共：1条用例。
+2019-01-24 18:44:09  [ TestNG:3 ] - [ INFO ]  第1条：登录
+2019-01-24 18:44:09  [ TestNG:43 ] - [ INFO ]  [打开网站:open:http://kdj.ceshi.che300.com/login, 输入账号:input://*[@id="telephone_1"]:13347808105, 输入密码:input://*[@id="password"]:che300, 输入验证码:input://*[@id="captcha"]:111111, 登录:click://button[@type="submit"], 鼠标悬停:hover://span[@class="name ant-dropdown-trigger"], 注销:click://li[@role="menuitem"]]
+2019-01-24 18:44:14  [ TestNG:4611 ] - [ INFO ]  打开网站:open:http://kdj.ceshi.che300.com/login
+2019-01-24 18:44:14  [ TestNG:4744 ] - [ INFO ]  输入账号:input://*[@id="telephone_1"]:13347808105
+2019-01-24 18:44:14  [ TestNG:4839 ] - [ INFO ]  输入密码:input://*[@id="password"]:che300
+2019-01-24 18:44:14  [ TestNG:4901 ] - [ INFO ]  输入验证码:input://*[@id="captcha"]:111111
+2019-01-24 18:44:17  [ TestNG:7297 ] - [ INFO ]  登录:click://button[@type="submit"]
+2019-01-24 18:44:18  [ TestNG:8378 ] - [ INFO ]  鼠标悬停:hover://span[@class="name ant-dropdown-trigger"]
+2019-01-24 18:44:19  [ TestNG:9503 ] - [ INFO ]  注销:click://li[@role="menuitem"]
+2019-01-24 18:44:19  [ TestNG:9504 ] - [ INFO ]  登录测试结果为：Pass
+2019-01-24 18:49:39  [ TestNG:0 ] - [ INFO ]  此次执行测试共：1条用例。
+2019-01-24 18:49:39  [ TestNG:3 ] - [ INFO ]  第1条：登录
+2019-01-24 18:49:39  [ TestNG:46 ] - [ INFO ]  [打开网站:open:http://kdj.ceshi.che300.com/login, 输入账号:input://*[@id="telephone_1"]:13347808105, 输入密码:input://*[@id="password"]:che300, 输入验证码:input://*[@id="captcha"]:111111, 登录:click://button[@type="submit"], 鼠标悬停:hover://span[@class="name ant-dropdown-trigger"], 注销:click://li[@role="menuitem"]]
+2019-01-24 18:49:43  [ TestNG:4509 ] - [ INFO ]  打开网站:open:http://kdj.ceshi.che300.com/login
+2019-01-24 18:49:44  [ TestNG:4653 ] - [ INFO ]  输入账号:input://*[@id="telephone_1"]:13347808105
+2019-01-24 18:49:44  [ TestNG:4723 ] - [ INFO ]  输入密码:input://*[@id="password"]:che300
+2019-01-24 18:49:44  [ TestNG:4786 ] - [ INFO ]  输入验证码:input://*[@id="captcha"]:111111
+2019-01-24 18:49:46  [ TestNG:7015 ] - [ INFO ]  登录:click://button[@type="submit"]
+2019-01-24 18:49:47  [ TestNG:8121 ] - [ INFO ]  鼠标悬停:hover://span[@class="name ant-dropdown-trigger"]
+2019-01-24 18:49:48  [ TestNG:9260 ] - [ INFO ]  注销:click://li[@role="menuitem"]
+2019-01-24 18:49:48  [ TestNG:9261 ] - [ INFO ]  登录测试结果为：Pass
+2019-01-24 18:56:19  [ TestNG:0 ] - [ INFO ]  此次执行测试共：1条用例。
+2019-01-24 18:56:19  [ TestNG:2 ] - [ INFO ]  第1条：登录
+2019-01-24 18:56:19  [ TestNG:44 ] - [ INFO ]  [打开网站:open:http://kdj.ceshi.che300.com/login, 输入账号:input://*[@id="telephone_1"]:13347808105, 输入密码:input://*[@id="password"]:che300, 输入验证码:input://*[@id="captcha"]:111111, 登录:click://button[@type="submit"], 鼠标悬停:hover://span[@class="name ant-dropdown-trigger"], 注销:click://li[@role="menuitem"]]
+2019-01-24 18:56:24  [ TestNG:4437 ] - [ INFO ]  打开网站:open:http://kdj.ceshi.che300.com/login
+2019-01-24 18:56:24  [ TestNG:4587 ] - [ INFO ]  输入账号:input://*[@id="telephone_1"]:13347808105
+2019-01-24 18:56:24  [ TestNG:4687 ] - [ INFO ]  输入密码:input://*[@id="password"]:che300
+2019-01-24 18:56:24  [ TestNG:4768 ] - [ INFO ]  输入验证码:input://*[@id="captcha"]:111111
+2019-01-24 18:56:26  [ TestNG:7240 ] - [ INFO ]  登录:click://button[@type="submit"]
+2019-01-24 18:56:28  [ TestNG:8362 ] - [ INFO ]  鼠标悬停:hover://span[@class="name ant-dropdown-trigger"]
+2019-01-24 18:56:29  [ TestNG:9495 ] - [ INFO ]  注销:click://li[@role="menuitem"]
+2019-01-24 18:56:29  [ TestNG:9496 ] - [ INFO ]  登录测试结果为：Pass

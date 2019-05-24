@@ -1,0 +1,2 @@
+2019-05-09 10:02:51  [ TestNG:43526 ] - [ ERROR ]  [ 贷后_审核列表_审核 ] 测试结果为：[ Fail ] java.lang.AssertionError : 找不到控件：//li[contains(text(),'0xzshh')] expected [true] but found [false]
+2019-05-09 17:01:20  [ TestNG:12492 ] - [ ERROR ]  [ 贷后_审核列表_审核 ] 测试结果为：[ Fail ] java.lang.AssertionError : 	没有找到：//span[@class='switch_button']

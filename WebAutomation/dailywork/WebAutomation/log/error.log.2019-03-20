@@ -1,0 +1,24 @@
+2019-03-20 17:25:16  [ TestNG:15146 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 总共 5031 条结果==总共 1 条结果 expected [true] but found [false]
+2019-03-20 17:27:22  [ TestNG:10034 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:14123}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 78a7492cea0522fe75700e4c9a07bfb4
+*** Element info: {Using=xpath, value=//input[@placeholder='请输入手机号']}
+2019-03-20 17:27:22  [ TestNG:10661 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:14123}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 78a7492cea0522fe75700e4c9a07bfb4
+2019-03-20 17:45:16  [ TestNG:16036 ] - [ ERROR ]  [ 主体监控_编辑 ] 测试结果为：[ Fail ] mqcwcp==1h9h47 expected [true] but found [false]
+2019-03-20 17:45:24  [ TestNG:23432 ] - [ ERROR ]  [ 主体监控_删除 ] 测试结果为：[ Fail ] kpgrtf==1h9h47 expected [true] but found [false]

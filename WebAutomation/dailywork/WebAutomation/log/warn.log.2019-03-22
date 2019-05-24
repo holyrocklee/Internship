@@ -1,0 +1,148 @@
+2019-03-22 09:51:26  [ TestNG:11901 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] 控件未找到 expected [true] but found [false]
+2019-03-22 09:51:26  [ TestNG:12553 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:4215}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 60ff144780253c44a7a7d59e9351c46d
+2019-03-22 09:53:02  [ TestNG:59206 ] - [ ERROR ]  [ 用户管理_新增 ] 测试结果为：[ Fail ] 找不到控件：//*[@id="root"]/div/div/div[2]/div[2]/div/div[1]/form/div/div[1]/div/div[2]/div/input expected [true] but found [false]
+2019-03-22 10:12:51  [ TestNG:57128 ] - [ ERROR ]  [ 用户管理_新增 ] 测试结果为：[ Fail ] 找不到控件：//li[@title='!institution'] expected [true] but found [false]
+2019-03-22 10:21:14  [ TestNG:64453 ] - [ ERROR ]  [ 用户管理_新增 ] 测试结果为：[ Fail ] 找不到控件：//span[@class='ems-title'] expected [true] but found [false]
+2019-03-22 10:21:20  [ TestNG:70228 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] stale element reference: element is not attached to the page document
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:5531}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: f99c3ebb90760c26c0c57b57c6be4463
+2019-03-22 10:52:57  [ TestNG:112656 ] - [ ERROR ]  [ 角色管理_新增 ] 测试结果为：[ Fail ] 找不到控件：//li[@title='6cqd3395'] expected [true] but found [false]
+2019-03-22 10:53:46  [ TestNG:161443 ] - [ ERROR ]  [ 角色管理_查看 ] 测试结果为：[ Fail ] 找不到控件：//li[@title='6cqd3395'] expected [true] but found [false]
+2019-03-22 10:54:35  [ TestNG:210521 ] - [ ERROR ]  [ 角色管理_删除 ] 测试结果为：[ Fail ] 找不到控件：//li[@title='6cqd3395'] expected [true] but found [false]
+2019-03-22 10:55:34  [ TestNG:269413 ] - [ ERROR ]  [ 用户管理_新增 ] 测试结果为：[ Fail ] 找不到控件：//*[@id="root"]/div/div/div[2]/div[2]/div/div[1]/form/div/div[1]/div/div[2]/div/input expected [true] but found [false]
+2019-03-22 10:56:03  [ TestNG:298344 ] - [ ERROR ]  [ 用户管理_查看 ] 测试结果为：[ Fail ] 18351921729==18351921715 expected [true] but found [false]
+2019-03-22 10:56:14  [ TestNG:309495 ] - [ ERROR ]  [ 用户管理_关联主体 ] 测试结果为：[ Fail ] stale element reference: element is not attached to the page document
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:8019}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 3ac0c1faa54256b820105952426dac06
+2019-03-22 10:56:23  [ TestNG:318675 ] - [ ERROR ]  [ 用户管理_删除 ] 测试结果为：[ Fail ] 18351921731==18351921715 expected [true] but found [false]
+2019-03-22 10:56:57  [ TestNG:352748 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] 找不到控件：//p[contains(text(),'退出')] expected [true] but found [false]
+2019-03-22 11:02:37  [ TestNG:112385 ] - [ ERROR ]  [ 角色管理_新增 ] 测试结果为：[ Fail ] 找不到控件：//li[@title='focg32o1'] expected [true] but found [false]
+2019-03-22 11:03:26  [ TestNG:161341 ] - [ ERROR ]  [ 角色管理_查看 ] 测试结果为：[ Fail ] 找不到控件：//li[@title='focg32o1'] expected [true] but found [false]
+2019-03-22 11:04:28  [ TestNG:223731 ] - [ ERROR ]  [ 角色管理_删除 ] 测试结果为：[ Fail ] 找不到控件：//li[@title='focg32o1'] expected [true] but found [false]
+2019-03-22 11:05:31  [ TestNG:286832 ] - [ ERROR ]  [ 用户管理_新增 ] 测试结果为：[ Fail ] 找不到控件：//button[@type='button'] expected [true] but found [false]
+2019-03-22 11:06:05  [ TestNG:320908 ] - [ ERROR ]  [ 用户管理_查看 ] 测试结果为：[ Fail ] 找不到控件：//span[contains(text(),'系统设置')] expected [true] but found [false]
+2019-03-22 11:06:39  [ TestNG:354861 ] - [ ERROR ]  [ 用户管理_关联主体 ] 测试结果为：[ Fail ] 找不到控件：//span[contains(text(),'系统设置')] expected [true] but found [false]
+2019-03-22 11:13:12  [ TestNG:110649 ] - [ ERROR ]  [ 用户管理_查看 ] 测试结果为：[ Fail ] 找不到控件：//span[contains(text(),'系统设置')] expected [true] but found [false]
+2019-03-22 11:13:46  [ TestNG:144776 ] - [ ERROR ]  [ 用户管理_关联主体 ] 测试结果为：[ Fail ] 找不到控件：//span[contains(text(),'系统设置')] expected [true] but found [false]
+2019-03-22 11:14:18  [ TestNG:176714 ] - [ ERROR ]  [ 用户管理_删除 ] 测试结果为：[ Fail ] 找不到控件：//span[contains(text(),'系统设置')] expected [true] but found [false]
+2019-03-22 11:14:52  [ TestNG:210799 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] 找不到控件：//p[contains(text(),'退出')] expected [true] but found [false]
+2019-03-22 11:32:27  [ TestNG:69911 ] - [ ERROR ]  [ 用户管理_关联主体 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:11520}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 0a4dc3e972c47d54c555ba7dbeb58c91
+*** Element info: {Using=xpath, value=//input[@id='mobile']}
+2019-03-22 11:32:28  [ TestNG:71614 ] - [ ERROR ]  [ 用户管理_关联主体 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:11520}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 0a4dc3e972c47d54c555ba7dbeb58c91
+2019-03-22 16:14:56  [ TestNG:10974 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_手机号三要素 ] 测试结果为：[ Fail ] 找不到控件：SELECT short_name FROM gamma_rc.inf_financial_owner WHERE full_name='hcqslz' expected [true] but found [false]
+2019-03-22 16:16:23  [ TestNG:97745 ] - [ ERROR ]  [ 机构管理_新增 ] 测试结果为：[ Fail ] 控件未找到 expected [true] but found [false]
+2019-03-22 16:16:31  [ TestNG:105177 ] - [ ERROR ]  [ 机构管理_新增 ] 测试结果为：[ Fail ] chrome not reachable
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:8278}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 74ce61b0fe66c60b802c2b1cebd6e5e1
+2019-03-22 16:18:36  [ TestNG:13051 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:8795}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 2912c35d35c29a1039c8bfc5fbab952d
+*** Element info: {Using=xpath, value=//input[@placeholder='请输入手机号']}
+2019-03-22 16:18:37  [ TestNG:13770 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:8795}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 2912c35d35c29a1039c8bfc5fbab952d
+2019-03-22 16:19:06  [ TestNG:20919 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:8850}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: fc643dea7cc990c88ecff9493bd39720
+*** Element info: {Using=xpath, value=//input[@placeholder='请输入手机号']}
+2019-03-22 16:19:07  [ TestNG:21601 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:8850}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: fc643dea7cc990c88ecff9493bd39720
+2019-03-22 16:19:26  [ TestNG:11311 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_手机号三要素 ] 测试结果为：[ Fail ] 找不到控件：SELECT short_name FROM gamma_rc.inf_financial_owner WHERE full_name='4mcm28' expected [true] but found [false]
+2019-03-22 16:22:04  [ TestNG:22273 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9148}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: dbd7b11571de54e76511afc7d4f28697
+*** Element info: {Using=xpath, value=//input[@placeholder='请输入手机号']}
+2019-03-22 16:22:06  [ TestNG:24864 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9148}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: dbd7b11571de54e76511afc7d4f28697
+2019-03-22 17:01:57  [ TestNG:51419 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_手机号三要素 ] 测试结果为：[ Fail ] 找不到控件：//h3[contains(text(),'车300伽马风控贷前反欺诈报告')] expected [true] but found [false]

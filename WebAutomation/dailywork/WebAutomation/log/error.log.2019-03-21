@@ -1,0 +1,264 @@
+2019-03-21 09:47:59  [ TestNG:37462 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] 找不到控件：//input[@placeholder='借款人姓名'] expected [true] but found [false]
+2019-03-21 09:49:21  [ TestNG:35774 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] 找不到控件：//input[@placeholder='借款人姓名'] expected [true] but found [false]
+2019-03-21 09:50:40  [ TestNG:22833 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:6612}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 219da43e76147a23a02804cd8e1e0c39
+*** Element info: {Using=xpath, value=//input[@placeholder='借款人姓名']}
+2019-03-21 09:50:41  [ TestNG:24082 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:6612}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 219da43e76147a23a02804cd8e1e0c39
+2019-03-21 09:54:33  [ TestNG:45043 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] 找不到控件：//input[@placeholder='借款人姓名'] expected [true] but found [false]
+2019-03-21 09:56:57  [ TestNG:38395 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] 找不到控件：//input[@placeholder='借款人姓名'] expected [true] but found [false]
+2019-03-21 09:58:15  [ TestNG:10456 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] 满红伟==王二麻·买买提 expected [true] but found [false]
+2019-03-21 10:04:47  [ TestNG:13937 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 总共 5032 条结果==总共 1 条结果 expected [true] but found [false]
+2019-03-21 10:18:07  [ TestNG:6240 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] Index: 1, Size: 1
+2019-03-21 10:44:24  [ TestNG:14710 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 总共 5031 条结果==总共 1 条结果 expected [true] but found [false]
+2019-03-21 10:51:31  [ TestNG:47417 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 找不到控件：//*[@id="root"]/div/div/div[2]/div[2]/div/div/div[1]/div[2]/div/div[2]/div[2]/div/div[1]/ul/li[1]/span[1]/text()[2] expected [true] but found [false]
+2019-03-21 10:52:55  [ TestNG:54155 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 找不到控件：//*[@id="root"]/div/div[1]/div[2]/div[2]/div/div/div[1]/div[2]/div/div[2]/div[2]/div/div[1]/ul/li[3]/span[1]/text()[2] expected [true] but found [false]
+2019-03-21 11:02:41  [ TestNG:39787 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 找不到：//*[@id="root"]/div/div/div[2]/div[2]/div/div/div[1]/div[2]/div/div[2]/div[2]/div/div[1]/ul/li[1]/span[1]/text()[2] expected [true] but found [false]
+2019-03-21 11:06:59  [ TestNG:25059 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-03-21 11:09:19  [ TestNG:24697 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-03-21 11:09:39  [ TestNG:44995 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:13674}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 57f82f40d2b37bc8c0a24b490dbfedb5
+2019-03-21 11:11:32  [ TestNG:17781 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] null
+2019-03-21 11:22:06  [ TestNG:63253 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 找不到控件：//*[@id="root"]/div/div[1]/div[2]/div[2]/div/div/div[1]/div[2]/div/div[2]/div[2]/div/div[1]/ul/li[3]/span[1]/text()[2] expected [true] but found [false]
+2019-03-21 11:23:51  [ TestNG:23719 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-03-21 11:25:26  [ TestNG:20588 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] null
+2019-03-21 11:27:29  [ TestNG:18625 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] null
+2019-03-21 11:27:42  [ TestNG:31106 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:1438}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: f04bbd355be3638146d98990f80a46be
+2019-03-21 11:28:35  [ TestNG:25646 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-03-21 11:30:56  [ TestNG:27381 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-03-21 11:34:15  [ TestNG:26934 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 车300伽马风控贷前反欺诈报告新车消费贷==车300伽马风控贷前反欺诈报告 expected [true] but found [false]
+2019-03-21 11:34:48  [ TestNG:59310 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] 找不到控件：//p[contains(text(),'退出')] expected [true] but found [false]
+2019-03-21 11:36:06  [ TestNG:40438 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 找不到：//*[@id="root"]/div/div/div[2]/div[2]/div/div/div[1]/div[2]/div/div[2]/div[2]/div/div[1]/ul/li[1]/span[1]/text()[2] expected [true] but found [false]
+2019-03-21 11:36:39  [ TestNG:73169 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] 找不到控件：//p[contains(text(),'退出')] expected [true] but found [false]
+2019-03-21 11:38:08  [ TestNG:29883 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 控件未找到 expected [true] but found [false]
+2019-03-21 11:43:22  [ TestNG:29493 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 控件未找到 expected [true] but found [false]
+2019-03-21 11:45:11  [ TestNG:21533 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] null
+2019-03-21 11:48:13  [ TestNG:39371 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 找不到：//*[@id="root"]/div/div/div[2]/div[2]/div/div/div[1]/div[2]/div/div[2]/div[2]/div/div[1]/ul/li[1]/span[1]/text()[2] expected [true] but found [false]
+2019-03-21 11:56:12  [ TestNG:32790 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 找不到控件：//*[@id="root"]/div/div[1]/div[2]/div[2]/div/div/div[1]/div[2]/div/div[2]/div[2]/div/div[1]/ul/li[3]/span[1]/text()[2] expected [true] but found [false]
+2019-03-21 11:58:42  [ TestNG:32626 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 车架号：LFV3A24G3C3079205==银行卡号：LFV3A24G3C3079205 expected [true] but found [false]
+2019-03-21 12:20:22  [ TestNG:33051 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 银行卡号：6226900510808962==身份证号：6226900510808962 expected [true] but found [false]
+2019-03-21 14:13:31  [ TestNG:12663 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:2528}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: da9ad5064cd9778511e878deb80a98e7
+*** Element info: {Using=xpath, value=//input[@placeholder='借款人姓名']}
+2019-03-21 14:14:31  [ TestNG:32780 ] - [ ERROR ]  [ 角色管理_新增 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:2614}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: b4851f7c8fd55a3373e6ed39d92bc8fe
+*** Element info: {Using=xpath, value=//*[@id="root"]/div/div/div[2]/div[2]/div/div[1]/form/div/div[1]/div/div[2]/div/input}
+2019-03-21 14:26:48  [ TestNG:37889 ] - [ ERROR ]  [ 角色管理_新增 ] 测试结果为：[ Fail ] 找不到控件：//div[contains(@class,'ant-table-footer')]//button[contains(@type,'button')] expected [true] but found [false]
+2019-03-21 14:26:50  [ TestNG:39874 ] - [ ERROR ]  [ 角色管理_新增 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:3743}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: a6d80a6543fba96999a5c63a87bdcf3e
+2019-03-21 14:29:59  [ TestNG:151944 ] - [ ERROR ]  [ 用户管理_新增 ] 测试结果为：[ Fail ] 找不到控件：//input[@placeholder='6~20个字符，由字母和数字组成'] expected [true] but found [false]
+2019-03-21 14:30:34  [ TestNG:186745 ] - [ ERROR ]  [ 用户管理_关联主体 ] 测试结果为：[ Fail ] 找不到控件：//span[contains(text(),'系统设置')] expected [true] but found [false]
+2019-03-21 14:31:06  [ TestNG:218887 ] - [ ERROR ]  [ 用户管理_删除 ] 测试结果为：[ Fail ] 找不到控件：//span[contains(text(),'系统设置')] expected [true] but found [false]
+2019-03-21 14:31:38  [ TestNG:251034 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] 找不到控件：//*[@id='root']/div[1]/div[1]/div[2]/div[1]/div[1]/span[1] expected [true] but found [false]
+2019-03-21 14:40:55  [ TestNG:82208 ] - [ ERROR ]  [ 角色管理_查看 ] 测试结果为：[ Fail ] 找不到控件：//*[@id="root"]/div/div/div[2]/div[2]/div/div[1]/form/div/div[1]/div/div[2]/div/input expected [true] but found [false]
+2019-03-21 14:42:01  [ TestNG:147835 ] - [ ERROR ]  [ 用户管理_新增 ] 测试结果为：[ Fail ] 找不到控件：//span[contains(text(),'系统设置')] expected [true] but found [false]
+2019-03-21 14:48:43  [ TestNG:44478 ] - [ ERROR ]  [ 角色管理_查看 ] 测试结果为：[ Fail ] stale element reference: element is not attached to the page document
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:5823}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 4b859c2f692ff3a0a9a971e296f38ae7
+2019-03-21 14:49:18  [ TestNG:78814 ] - [ ERROR ]  [ 角色管理_删除 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:5823}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 4b859c2f692ff3a0a9a971e296f38ae7
+2019-03-21 14:50:07  [ TestNG:34136 ] - [ ERROR ]  [ 角色管理_新增 ] 测试结果为：[ Fail ] element not interactable
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:6001}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: f85da383a4ed4b0dc62e11e55b9d9695
+2019-03-21 14:51:50  [ TestNG:62367 ] - [ ERROR ]  [ 角色管理_查看 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:6151}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 2f2e4ff2658f1e0aedeaa547964d819e
+*** Element info: {Using=xpath, value=//*[@id="root"]/div/div/div[2]/div[2]/div/div[1]/form/div/div[1]/div/div[2]/div/input}
+2019-03-21 16:44:28  [ TestNG:43792 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_车辆要素 ] 测试结果为：[ Fail ] 找不到控件：//*[@id="root"]/div/div[1]/div[2]/div[2]/div/div/div[1]/div[2]/div/div[4]/div[2]/div/div[1]/ul/li[2]/span[1] expected [true] but found [false]
+2019-03-21 16:53:01  [ TestNG:40158 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_手机号三要素 ] 测试结果为：[ Fail ] 找不到控件：//a[contains(text(),'查看')] expected [true] but found [false]
+2019-03-21 17:00:37  [ TestNG:11050 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_手机号三要素 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:6494}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 29b98f1d22d98231e7ad194465497358
+*** Element info: {Using=xpath, value=//input[@placeholder='借款人姓名']}
+2019-03-21 17:00:52  [ TestNG:44427 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_手机号三要素 ] 测试结果为：[ Fail ] 找不到控件：//td[@class='ant-table-selection-column']//input[@value='on'] expected [true] but found [false]
+2019-03-21 17:01:24  [ TestNG:76639 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] 找不到控件：//*[@id='root']/div[1]/div[1]/div[2]/div[1]/div[1]/span[1] expected [true] but found [false]
+2019-03-21 17:01:45  [ TestNG:45253 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_手机号三要素 ] 测试结果为：[ Fail ] 找不到控件：//td[@class='ant-table-selection-column']//input[@value='on'] expected [true] but found [false]
+2019-03-21 17:08:45  [ TestNG:19574 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:7206}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: e185686f5519b38cc39cc22c426333d3
+*** Element info: {Using=xpath, value=//input[@placeholder='借款人姓名']}
+2019-03-21 17:08:47  [ TestNG:21053 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:7206}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: e185686f5519b38cc39cc22c426333d3
+2019-03-21 17:14:41  [ TestNG:40465 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] 找不到控件：//input[@placeholder='借款人姓名'] expected [true] but found [false]
+2019-03-21 17:18:35  [ TestNG:48189 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] 找不到控件：//input[@placeholder='借款人姓名'] expected [true] but found [false]
+2019-03-21 17:20:50  [ TestNG:39220 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] 找不到控件：//input[@placeholder='借款人姓名'] expected [true] but found [false]
+2019-03-21 17:31:57  [ TestNG:25795 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] no such window: window was already closed
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9516}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: ed2f15361902cf88df68a0be01dd4ff7
+2019-03-21 17:36:52  [ TestNG:21256 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:10108}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 5dcbcb6093ea64c0699066e3e7c7255b
+*** Element info: {Using=xpath, value=//input[@placeholder='借款人姓名']}
+2019-03-21 17:36:54  [ TestNG:22879 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:10108}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 5dcbcb6093ea64c0699066e3e7c7255b
+2019-03-21 17:42:54  [ TestNG:15373 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:10720}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: e738eef4e220ed96756018660c1aae0f
+*** Element info: {Using=xpath, value=//input[@placeholder='借款人姓名']}
+2019-03-21 17:44:37  [ TestNG:21873 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:10911}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: d326e1e5cdef0c8a58474181fa252063
+*** Element info: {Using=xpath, value=//input[@placeholder='借款人姓名']}
+2019-03-21 17:44:39  [ TestNG:23468 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:10911}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: d326e1e5cdef0c8a58474181fa252063
+2019-03-21 17:44:59  [ TestNG:12025 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=71.0.3578.80 (2ac50e7249fbd55e6f517a28131605c9fb9fe897),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.80 (2ac50e7249fbd..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:10984}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 8803976f4b072ccb040095cb6100dbaa
+*** Element info: {Using=xpath, value=//input[@placeholder='借款人姓名']}

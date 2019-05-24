@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-快定价">
+              <span class="suite-name border-failed">快定价</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-快定价">
+                    <span>D:\cxli\WebAutomation\conf\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-快定价">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-快定价">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-快定价">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-快定价">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-快定价">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-快定价">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">3 methods, 1 failed,   2 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-快定价" class="hide-methods failed suite-快定价"> (hide)</a> <!-- hide-methods failed suite-快定价 -->
+                      <a href="#" panel-name="suite-快定价" class="show-methods failed suite-快定价"> (show)</a> <!-- show-methods failed suite-快定价 -->
+                    </span>
+                    <div class="method-list-content failed suite-快定价">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-快定价" title="cases.WebUITest" hash-for-method="test([主体监控=&gt;click://span[@title=&#039;主体监控&#039;], 主体监控二级菜单=&gt;click://a[contains(text(),&#039;主体监控&#039;)], 新增=&gt;click://body//...)">test([主体监控=>click://span[@title='主体监控'], 主体监控二级菜单=>click://a[contains(text(),'主体监控')], 新增=>click://body//...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-快定价 -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-快定价" class="hide-methods passed suite-快定价"> (hide)</a> <!-- hide-methods passed suite-快定价 -->
+                      <a href="#" panel-name="suite-快定价" class="show-methods passed suite-快定价"> (show)</a> <!-- show-methods passed suite-快定价 -->
+                    </span>
+                    <div class="method-list-content passed suite-快定价">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-快定价" title="cases.WebUITest" hash-for-method="test([打开网站=&gt;open::http://192.168.0.192:8888/login.html, 输入账号=&gt;input://input[@placeholder=&#039;请输入手机号&#039;]:183519...)">test([打开网站=>open::http://192.168.0.192:8888/login.html, 输入账号=>input://input[@placeholder='请输入手机号']:183519...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-快定价" title="cases.WebUITest" hash-for-method="test([鼠标悬停=&gt;hover://*[@id=&#039;root&#039;]/div[1]/div[1]/div[2]/div[1]/div[1]/span[1], 注销=&gt;click://p[contains(text...)">test([鼠标悬停=>hover://*[@id='root']/div[1]/div[1]/div[2]/div[1]/div[1]/span[1], 注销=>click://p[contains(text...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-快定价 -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-快定价" class="panel 快定价">
+          <div class="suite-快定价-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">cases.WebUITest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="test([主体监控=&gt;click://span[@title=&#039;主体监控&#039;], 主体监控二级菜单=&gt;click://a[contains(text(),&#039;主体监控&#039;)], 新增=&gt;click://body//...)">
+                  </a> <!-- test([主体监控=>click://span[@title='主体监控'], 主体监控二级菜单=>click://a[contains(text(),'主体监控')], 新增=>click://body//...) -->
+                  <span class="method-name">test</span>
+                  <span class="parameters">([主体监控=>click://span[@title='主体监控'], 主体监控二级菜单=>click://a[contains(text(),'主体监控')], 新增=>click://body//button[4], 主体公司全称=>input://input[@placeholder='主体公司全称']:ly7zah, 主体公司简称=>input://input[@placeholder='主体公司简称']:o11evv, 主体关键词=>click://div[contains(text(),'单个关键词限20字符内,最多支持50个关键词,按回车分隔')], 输入关键词=>input:/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/input[1]:二手车, 回车=>keyboard:/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/form[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/input[1]:enter, 提交=>click://button[@type='submit'], 搜索新建的主体=>input://input[@id='name']:ly7zah, 点击搜索=>click://button[@type='submit'], 校验该主体是否存在=>check:/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[2]:ly7zah, 重新打开网站=>open::http://192.168.0.192:8888, 贷后资产监控=>click://span[@title='贷后资产监控'], 贷后监控列表=>click://a[contains(text(),'贷后监控列表')], 进入项目监控列表=>click://span[@class='switch_button'], 点击新增=>click://body/div[@id='root']/div[@class='app-ct']/div[@class='ant-layout ant-layout-has-sider']/div[@class='ant-layout']/div[@class='ant-layout-content']/div[@class='programContainer']/div[@class='table-page']/div[@class='table-body']/button[1], 点击所属主体=>click://div[contains(text(),'请选择')], SQL选取主体简称=>db:SELECT short_name FROM gamma_rc.inf_financial_owner WHERE full_name='${fullname}':sqlshortname, 选择所属主体=>click://li[contains(text(),'${sqlshortname}')], 输入项目名称=>input://input[@id='programName']:random(l,6,ProgramName), 点击确定=>click://button[contains(@class,'ant-btn ant-btn-primary ant-btn-lg')], 重新打开网站=>open::http://192.168.0.192:8888, 系统设置=>click://span[contains(text(),'系统设置')], 接口开关设置=>click://a[contains(text(),'接口开关设置')], 输入项目名称=>input://input[@placeholder='项目名称']:${ProgramName}, 点击所属主体=>click://div[@class='ant-select-selection__rendered'], 选择所属主体=>click://li[contains(text(),'${sqlshortname}')], 点击搜索=>click://body//button[1], 打开同盾开关=>click://*[@id="root"]/div/div/div[2]/div[2]/div/div/div[2]/div/div/div/div/div/div/div/table/tbody/tr/td[7]/span, 点击确定=>click://div[contains(@class,'ant-modal-footer')]//button[contains(@class,'ant-btn ant-btn-primary')], 重新打开网站=>open::http://192.168.0.192:8888, 贷后资产监控=>click://span[@title='贷后资产监控'], 贷后监控列表=>click://a[contains(text(),'贷后监控列表')], 点击单笔导入=>click://*[@id="root"]/div/div/div[2]/div[2]/div/div[2]/div/button[1], 点击人车全监控=>click://div[@class='tab-index'], 点击所属主体=>click://div[contains(text(),'请选择所属主体')], 选择所属主体=>click://li[contains(text(),'${sqlshortname}')], 点击所属项目=>click://body/div[@id='root']/div[@class='app-ct']/div[@class='ant-layout ant-layout-has-sider']/div[@class='ant-layout']/div[@class='ant-layout-content']/div[@class='bdcontainer']/div[@class='tabs-aft-container clearfix']/div[@class='aftloanFormContainer']/form[@class='ant-form ant-form-horizontal']/div[@class='car-area']/div[2]/div[2]/div[1]/div[1]/div[1]/div[1], 选择所属项目=>click://li[contains(text(),'${ProgramName}')], 输入车架号=>input://input[@id='vin']:${vin11}, 输入车牌号=>input://input[@id='licensePlate']:${LicenseNum3}, 输入发动机号=>input://input[@id='engineNo']:${EngineNo3}, 输入客户姓名=>input://input[@id='customerName']:${name2}, 输入手机号=>input://input[@id='mobile']:${phone30}, 输入身份证号=>input://input[@id='certNo']:${ID11}, 点击业务类型=>click://div[contains(text(),'请选择业务类型')], 选择业务类型=>click://li[contains(text(),'二手车消费贷')], 点击合同生效时间=>click://input[contains(@placeholder,'请选择放款时间/合同生效时间')], 选择时间=>click://div[contains(text(),'25')], 点击首期还款时间=>click://input[@placeholder='请选择首期还款时间'], 选择时间=>click://div[contains(text(),'25')], 输入还款期数=>input://input[@id='loanTimes']:random(n,1,LoanTimes), 点击放款地点=>click://input[@id='loanCity'], 选择放款地点-省级=>click://li[contains(@title,'江苏')], 选择放款地点-市级=>click://li[contains(@title,'南京')], 点击交车时间=>click://input[@placeholder='请选择交车时间'], 选择时间=>click://a[contains(@class,'ant-calendar-today-btn')], 点击确定=>click://button[contains(@class,'ant-btn addSubmitButton ant-btn-primary ant-btn-lg')], 点击主体项目第二个框=>click://*[@id="root"]/div/div/div[2]/div[2]/div/div[2]/div/form/div/div[6]/div/div[2]/div/div[2]/div/div, 选择项目名称=>click://li[contains(text(),'${ProgramName}')], SQL选取资产编号=>db:SELECT id FROM gamma_rc.inf_after_loan_assets WHERE after_loan_project_id = (SELECT project_id FROM gamma_rc.inf_after_loan_project WHERE project_name='${ProgramName}') ORDER BY create_date_time DESC LIMIT 1:assetsid, 输入资产编号=>input://input[contains(@placeholder,'资产编号')]:${assetsid}, 点击搜索=>click://form[contains(@class,'ant-form ant-form-horizontal ant-advanced-search-form')]//button[1], 校验该资产存在=>check://td[contains(text(),'${assetsid}')]:${assetsid}, 重新打开网站=>open::http://192.168.0.192:8888, 贷后资产监控=>click://span[@title='贷后资产监控'], 贷后审核列表=>click://a[contains(text(),'贷后审核列表')], 输入资产编号=>input://*[@id="root"]/div/div[1]/div[2]/div[2]/div/div[2]/div[1]/form/div/div[1]/div/div[2]/div/input:${assetsid}, 点击搜索=>click://body//div[@class='ant-layout-content']//div//div[1]//form[1]//div[1]//div[11]//button[1], 校验该资产是否在审核列表=>check://td[contains(text(),'${assetsid}')]:${assetsid}, 校验姓名是否对应=>check://td[contains(text(),'${name2}')]:${name2}, 校验所属主体=>check://td[contains(text(),'${sqlshortname}')]:${sqlshortname}, 校验所属项目=>check://td[contains(text(),'${ProgramName}')]:${ProgramName}, 点击审核=>click://tr[contains(@class,'ant-table-row-level-0')]//span[contains(text(),'审核')], 切换页面=>switchto:, 输入人工评分=>input://div[@id='0']//div[1]//div[2]//input[1]:33.0, null=>null:, null=>null:, null=>null:, null=>null:, null=>null:, null=>null:, null=>null:, null=>null:, null=>null:, null=>null:, null=>null:, null=>null:, null=>null:, null=>null:, null=>null:])</span>
+                  <div class="stack-trace">java.lang.AssertionError: 找不到控件：//span[@title=&apos;贷后资产监控&apos;] expected [true] but found [false]
+	at cases.BaseTest.action(BaseTest.java:159)
+	at cases.BaseTest.test(BaseTest.java:123)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+... Removed 16 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-快定价-class-failed -->
+          <div class="suite-快定价-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">cases.WebUITest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="test([打开网站=&gt;open::http://192.168.0.192:8888/login.html, 输入账号=&gt;input://input[@placeholder=&#039;请输入手机号&#039;]:183519...)">
+                  </a> <!-- test([打开网站=>open::http://192.168.0.192:8888/login.html, 输入账号=>input://input[@placeholder='请输入手机号']:183519...) -->
+                  <span class="method-name">test</span>
+                  <span class="parameters">([打开网站=>open::http://192.168.0.192:8888/login.html, 输入账号=>input://input[@placeholder='请输入手机号']:18351921721, 输入密码=>input://input[@placeholder='请输入密码']:cxli123, 输入验证码=>input://input[@placeholder='请输入验证码']:adsd, 点击登录=>click://button[@class='login-btn']])</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="test([鼠标悬停=&gt;hover://*[@id=&#039;root&#039;]/div[1]/div[1]/div[2]/div[1]/div[1]/span[1], 注销=&gt;click://p[contains(text...)">
+                  </a> <!-- test([鼠标悬停=>hover://*[@id='root']/div[1]/div[1]/div[2]/div[1]/div[1]/span[1], 注销=>click://p[contains(text...) -->
+                  <span class="method-name">test</span>
+                  <span class="parameters">([鼠标悬停=>hover://*[@id='root']/div[1]/div[1]/div[2]/div[1]/div[1]/span[1], 注销=>click://p[contains(text(),'退出')]])</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-快定价-class-passed -->
+        </div> <!-- panel 快定价 -->
+        <div panel-name="test-xml-快定价" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">D:\cxli\WebAutomation\conf\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;快定价&quot; parallel=&quot;tests&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;extentx.ExtentTestNGITestListener&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test name=&quot;TestSuit1&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;cases.WebUITest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- TestSuit1 --&gt;
+&lt;/suite&gt; &lt;!-- 快定价 --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-快定价" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for 快定价</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">TestSuit1 (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-快定价" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for 快定价</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-快定价" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for 快定价</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_快定价');
+function tableData_快定价() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(3);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'test')
+data.setCell(0, 2, 'cases.WebUITest')
+data.setCell(0, 3, 40309);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'test')
+data.setCell(1, 2, 'cases.WebUITest')
+data.setCell(1, 3, 4174);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'test')
+data.setCell(2, 2, 'cases.WebUITest')
+data.setCell(2, 3, 1748);
+window.suiteTableData['快定价']= { tableData: data, tableDiv: 'times-div-快定价'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 46 seconds</span>
+              <div id="times-div-快定价">
+              </div> <!-- times-div-快定价 -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-快定价" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for 快定价</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-快定价" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-快定价" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">cases.WebUITest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">init</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">test([打开网站=>open::http://192.168.0.192:8888/login.html, 输入账号=>input://input[@placeholder='请输入手机号']:183519...)</span>
+                <span class="method-start">5710 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">reset</span>
+                <span class="method-start">7937 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">test([主体监控=>click://span[@title='主体监控'], 主体监控二级菜单=>click://a[contains(text(),'主体监控')], 新增=>click://body//...)</span>
+                <span class="method-start">8561 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">reset</span>
+                <span class="method-start">52999 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">test([鼠标悬停=>hover://*[@id='root']/div[1]/div[1]/div[2]/div[1]/div[1]/span[1], 注销=>click://p[contains(text...)</span>
+                <span class="method-start">53179 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">reset</span>
+                <span class="method-start">57543 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-test after">
+                <span class="method-name">destroy</span>
+                <span class="method-start">58076 ms</span>
+              </div> <!-- configuration-test after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

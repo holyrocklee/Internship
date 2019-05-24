@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="快定价" parallel="tests" thread-count="5">
+	<test name="TestSuit1">
+		<classes>
+			<class name="cases.WebUITest"></class>
+   		</classes>
+
+	</test>
+	<listeners>
+		<listener class-name="extentx.ExtentTestNGITestListener"></listener>
+	</listeners>
+</suite>

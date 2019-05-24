@@ -1,0 +1,49 @@
+2019-05-06 09:49:11  [ TestNG:31772 ] - [ ERROR ]  [ 贷后_项目列表_资产查询 ] 测试结果为：[ Fail ] java.lang.AssertionError : 	没有找到：//*[@id="root"]/div/div/div[2]/div[2]/div/div[2]/div/form/div/div[3]/div/div[2]/div/div/div/div
+2019-05-06 09:50:03  [ TestNG:23456 ] - [ ERROR ]  [ 贷后_项目列表_资产查询 ] 测试结果为：[ Fail ] java.lang.AssertionError : 	没有找到：//span[contains(text(),'查看资产')]
+2019-05-06 09:56:03  [ TestNG:24271 ] - [ ERROR ]  [ 贷后_项目列表_资产查询 ] 测试结果为：[ Fail ] java.lang.AssertionError : 	没有找到：//span[contains(text(),'查看资产')]
+2019-05-06 09:57:20  [ TestNG:44037 ] - [ ERROR ]  [ 贷后_项目列表_资产查询 ] 测试结果为：[ Fail ] java.lang.NumberFormatException : For input string: "1.0"
+2019-05-06 10:00:42  [ TestNG:43577 ] - [ ERROR ]  [ 贷后_项目列表_资产查询 ] 测试结果为：[ Fail ] java.lang.NumberFormatException : For input string: "1.0"
+2019-05-06 10:02:28  [ TestNG:22119 ] - [ ERROR ]  [ 贷后_项目列表_资产查询 ] 测试结果为：[ Fail ] java.lang.AssertionError : 	没有找到：//span[contains(text(),'查看资产')]
+2019-05-06 10:11:42  [ TestNG:8519 ] - [ ERROR ]  [ 测试switch ] 测试结果为：[ Fail ] java.lang.NumberFormatException : For input string: "1.0"
+2019-05-06 10:14:07  [ TestNG:6919 ] - [ ERROR ]  [ 测试switch ] 测试结果为：[ Fail ] java.lang.NumberFormatException : For input string: "1.0"
+2019-05-06 10:20:24  [ TestNG:11629 ] - [ ERROR ]  [ 贷后_项目列表_资产查询 ] 测试结果为：[ Fail ] java.lang.AssertionError : 	没有找到：//body/div[@id='root']/div[@class='app-ct']/div[@class='ant-layout ant-layout-has-sider']/div[@class='ant-layout']/div[@class='ant-layout-content']/div[@class='programContainer']/div[@class='table-page']/div[@class='table-body']/button[1]
+2019-05-06 10:21:30  [ TestNG:21871 ] - [ ERROR ]  [ 贷后_项目列表_资产查询 ] 测试结果为：[ Fail ] java.lang.AssertionError : 	没有找到：//span[contains(text(),'查看资产')]
+2019-05-06 10:22:08  [ TestNG:11147 ] - [ ERROR ]  [ 贷后_项目列表_资产查询 ] 测试结果为：[ Fail ] java.lang.AssertionError : 	没有找到：//body/div[@id='root']/div[@class='app-ct']/div[@class='ant-layout ant-layout-has-sider']/div[@class='ant-layout']/div[@class='ant-layout-content']/div[@class='programContainer']/div[@class='table-page']/div[@class='table-body']/button[1]
+2019-05-06 10:22:45  [ TestNG:48038 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] java.lang.AssertionError : 找不到控件：//p[contains(text(),'退出')] expected [true] but found [false]
+2019-05-06 10:23:08  [ TestNG:10528 ] - [ ERROR ]  [ 贷后_项目列表_资产查询 ] 测试结果为：[ Fail ] java.lang.AssertionError : 	没有找到：//body/div[@id='root']/div[@class='app-ct']/div[@class='ant-layout ant-layout-has-sider']/div[@class='ant-layout']/div[@class='ant-layout-content']/div[@class='programContainer']/div[@class='table-page']/div[@class='table-body']/button[1]
+2019-05-06 10:25:09  [ TestNG:41767 ] - [ ERROR ]  [ 贷后_项目列表_资产查询 ] 测试结果为：[ Fail ] java.lang.AssertionError : 找不到控件：//li[contains(text(),'daroe2')] expected [true] but found [false]
+2019-05-06 10:25:46  [ TestNG:79106 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] java.lang.AssertionError : 找不到控件：//p[contains(text(),'退出')] expected [true] but found [false]
+2019-05-06 10:41:44  [ TestNG:13347 ] - [ ERROR ]  [ 贷后_审核列表_审核 ] 测试结果为：[ Fail ] java.lang.AssertionError : 	没有找到：//body/div[@id='root']/div[@class='app-ct']/div[@class='ant-layout ant-layout-has-sider']/div[@class='ant-layout']/div[@class='ant-layout-content']/div[@class='programContainer']/div[@class='table-page']/div[@class='table-body']/button[1]
+2019-05-06 10:53:35  [ TestNG:84074 ] - [ ERROR ]  [ 贷后_审核列表_审核 ] 测试结果为：[ Fail ] java.lang.NumberFormatException : For input string: "1.0"
+2019-05-06 17:04:04  [ TestNG:116308 ] - [ ERROR ]  [ 贷后_审核列表_审核 ] 测试结果为：[ Fail ] java.lang.AssertionError : 	没有找到：//span[contains(text(),'系统设置')]
+2019-05-06 17:08:47  [ TestNG:24454 ] - [ ERROR ]  [ 测试switch ] 测试结果为：[ Fail ] java.lang.AssertionError : 	没有找到：//span[contains(text(),'查看')]
+2019-05-06 17:08:48  [ TestNG:25302 ] - [ ERROR ]  [ 测试switch ] 测试结果为：[ Fail ] org.openqa.selenium.NoSuchWindowException : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=74.0.3729.108)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9789}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.108, webStorageEnabled: true}
+Session ID: 133ce7391e72dcf111971b55e224c762
+2019-05-06 17:13:38  [ TestNG:29829 ] - [ ERROR ]  [ 测试switch ] 测试结果为：[ Fail ] org.openqa.selenium.NoSuchWindowException : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=74.0.3729.108)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:10791}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.108, webStorageEnabled: true}
+Session ID: bf481e4e5c4df716ea629a59bb6041b2
+2019-05-06 17:14:50  [ TestNG:29484 ] - [ ERROR ]  [ 测试switch ] 测试结果为：[ Fail ] org.openqa.selenium.NoSuchWindowException : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=74.0.3729.108)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:11072}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.108, webStorageEnabled: true}
+Session ID: 77924c214c22de05f45a3438e829b164

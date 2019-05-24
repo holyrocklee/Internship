@@ -1,0 +1,2 @@
+2019-05-20 17:02:44  [ TestNG:34589 ] - [ ERROR ]  [ 贷后_审核列表_审核 ] 测试结果为：[ Fail ] java.lang.AssertionError : 找不到控件：//span[@title='主体监控'] expected [true] but found [false]
+2019-05-20 17:03:23  [ TestNG:73028 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] java.lang.AssertionError : 找不到控件：//p[contains(text(),'退出')] expected [true] but found [false]

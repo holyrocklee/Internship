@@ -1,0 +1,109 @@
+2019-04-03 13:50:26  [ TestNG:32809 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:11871}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 8c7b42b02f8ac4566f7b50405fa306cc
+*** Element info: {Using=xpath, value=//*[@id="root"]/div/div/div[2]/div[2]/div/div[1]/form/div/div[1]/div/div[2]/div/input}
+2019-04-03 13:50:29  [ TestNG:36394 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:11871}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 8c7b42b02f8ac4566f7b50405fa306cc
+2019-04-03 13:51:08  [ TestNG:10864 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-04-03 13:52:01  [ TestNG:34759 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] 2元==2.00元 expected [true] but found [false]
+2019-04-03 16:05:05  [ TestNG:44375 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] 找不到控件：/html/body/div[4]/div/div[2]/div/div[1]/div[2]/form/div[1]/div[2]/div/div/div/div/div[1] expected [true] but found [false]
+2019-04-03 16:08:22  [ TestNG:10734 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] null
+2019-04-03 16:16:01  [ TestNG:22389 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:8540}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 4c573b4e7f515f00759f3af256300b3f
+*** Element info: {Using=xpath, value=/html/body/div[4]/div/div[2]/div/div[1]/div[2]/form/div[4]/div[2]/div/span/div/span/input}
+2019-04-03 16:16:02  [ TestNG:23589 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:8540}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 4c573b4e7f515f00759f3af256300b3f
+2019-04-03 16:18:43  [ TestNG:41767 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] 找不到控件：/html/body/div[6]/div/div/div/ul/li[5] expected [true] but found [false]
+2019-04-03 16:23:40  [ TestNG:51635 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] 找不到控件：/html/body/div[6]/div/div/div/ul/li[5] expected [true] but found [false]
+2019-04-03 16:30:00  [ TestNG:52217 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] 找不到控件：/html/body/div[6]/div/div/div/ul/li[5] expected [true] but found [false]
+2019-04-03 16:31:46  [ TestNG:41429 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] 找不到控件：/html/body/div[6]/div/div/div/ul/li[5] expected [true] but found [false]
+2019-04-03 16:54:26  [ TestNG:40992 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] 找不到控件：/html/body/div[4]/div/div[2]/div/div[1]/div[2]/form/div[4]/div[2]/div/span/div/span/input expected [true] but found [false]
+2019-04-03 16:54:33  [ TestNG:48263 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] chrome not reachable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:11951}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 3b9d7bce4b8d49e27775d56138b250dd
+2019-04-03 16:56:31  [ TestNG:10973 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] Index: 4, Size: 1
+2019-04-03 16:58:32  [ TestNG:42354 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] 找不到控件：/html[1]/body[1]/div[5]/div[1]/div[1]/div[1]/ul[1]/li[5] expected [true] but found [false]
+2019-04-03 16:59:32  [ TestNG:39778 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] 找不到控件：/html/body/div[4]/div/div[2]/div/div[1]/div[2]/form/div[4]/div[2]/div/span/div/span/input expected [true] but found [false]
+2019-04-03 17:36:19  [ TestNG:41939 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] 找不到控件：/html/body/div[4]/div/div[2]/div/div[1]/div[2]/form/div[4]/div[2]/div/span/div/span/input expected [true] but found [false]
+2019-04-03 17:39:19  [ TestNG:41318 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] 找不到控件：/html/body/div[4]/div/div[2]/div/div[1]/div[2]/form/div[4]/div[2]/div/span/div/span/input expected [true] but found [false]
+2019-04-03 17:41:09  [ TestNG:12006 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] Index: 3, Size: 1
+2019-04-03 17:46:58  [ TestNG:100871 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] 	没有找到：//li[contains(@class,'ant-select-dropdown-menu-item')][4]
+2019-04-03 17:47:05  [ TestNG:7806 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] 	没有找到：//span[@title='贷前反欺诈']
+2019-04-03 17:47:07  [ TestNG:9269 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:2680}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: 5558b7976c6d4774ab2085aa3c5448ee
+2019-04-03 17:47:30  [ TestNG:132789 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] 找不到控件：//*[@id='root']/div[1]/div[1]/div[2]/div[1]/div[1]/span[1] expected [true] but found [false]
+2019-04-03 17:47:47  [ TestNG:32146 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] 找不到控件：//span[@title='贷前反欺诈'] expected [true] but found [false]
+2019-04-03 17:48:18  [ TestNG:63938 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] 找不到控件：//*[@id='root']/div[1]/div[1]/div[2]/div[1]/div[1]/span[1] expected [true] but found [false]
+2019-04-03 17:49:08  [ TestNG:14977 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] 	没有找到：//span[@title='贷前反欺诈']
+2019-04-03 17:49:09  [ TestNG:16127 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:2908}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: fcbee9e1851f9af9056c1fb22110bb28
+2019-04-03 17:49:23  [ TestNG:5482 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] 	没有找到：//span[@title='贷前反欺诈']
+2019-04-03 17:50:04  [ TestNG:3759 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] 	没有找到：//span[@title='贷前反欺诈']
+2019-04-03 17:51:55  [ TestNG:11112 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] 	没有找到：//span[@title='贷前反欺诈']
+2019-04-03 17:53:30  [ TestNG:65969 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] 	没有找到：//span[@title='贷前反欺诈']
+2019-04-03 17:53:37  [ TestNG:72943 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] chrome not reachable
+  (Session info: chrome=73.0.3683.86)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:3315}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.86, webStorageEnabled: true}
+Session ID: a9989b9c3e0a64d722e0b1e40af44c63
+2019-04-03 17:54:36  [ TestNG:116902 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] 	没有找到：//li[contains(@class,'ant-select-dropdown-menu-item')][4]
+2019-04-03 17:55:08  [ TestNG:148678 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] 找不到控件：//*[@id='root']/div[1]/div[1]/div[2]/div[1]/div[1]/span[1] expected [true] but found [false]
+2019-04-03 17:55:48  [ TestNG:85062 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] Index: 3, Size: 0
+2019-04-03 17:57:49  [ TestNG:106759 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] 	没有找到：//li[contains(@class,'ant-select-dropdown-menu-item')][5]

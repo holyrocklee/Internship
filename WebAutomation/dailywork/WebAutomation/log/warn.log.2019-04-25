@@ -1,0 +1,84 @@
+2019-04-25 14:07:38  [ TestNG:18008 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_手机号三要素 ] 测试结果为：[ Fail ] 手机号码：183****1727结尾18351921727 expected [true] but found [false]
+2019-04-25 14:08:26  [ TestNG:65793 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_银行卡四要素 ] 测试结果为：[ Fail ] 找不到控件：//h3[contains(text(),'车300伽马风控贷前反欺诈报告')] expected [true] but found [false]
+2019-04-25 14:09:13  [ TestNG:113464 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_身份证两要素 ] 测试结果为：[ Fail ] 找不到控件：//h3[contains(text(),'车300伽马风控贷前反欺诈报告')] expected [true] but found [false]
+2019-04-25 14:10:01  [ TestNG:161182 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_车辆要素 ] 测试结果为：[ Fail ] 找不到控件：//h3[contains(text(),'车300伽马风控贷前反欺诈报告')] expected [true] but found [false]
+2019-04-25 14:10:52  [ TestNG:211903 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_人加车全要素 ] 测试结果为：[ Fail ] 找不到控件：//h3[contains(text(),'车300伽马风控贷前反欺诈报告')] expected [true] but found [false]
+2019-04-25 14:11:03  [ TestNG:223170 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] invalid argument: 
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:14061}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 38f8b362234ef7f49fb1f967f9300a96
+2019-04-25 14:11:52  [ TestNG:272192 ] - [ ERROR ]  [ 贷前反欺诈_资产查询 ] 测试结果为：[ Fail ] 找不到控件：//h3[contains(text(),'车300伽马风控贷前反欺诈报告')] expected [true] but found [false]
+2019-04-25 14:11:58  [ TestNG:278347 ] - [ ERROR ]  [ 贷前反欺诈_资产导出 ] 测试结果为：[ Fail ] null
+2019-04-25 14:12:04  [ TestNG:283703 ] - [ ERROR ]  [ 贷前反欺诈_资产报告 ] 测试结果为：[ Fail ] null
+2019-04-25 15:09:23  [ TestNG:17581 ] - [ ERROR ]  [ 贷前反欺诈_资产录入_手机号三要素 ] 测试结果为：[ Fail ] 车300伽马风控系统==车300伽马风控系统(192) expected [true] but found [false]
+2019-04-25 15:19:07  [ TestNG:157314 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] invalid argument: 
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:13117}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: e0cded9a20655edb547fbf659386e849
+2019-04-25 15:20:23  [ TestNG:232860 ] - [ ERROR ]  [ 贷前反欺诈_资产删除 ] 测试结果为：[ Fail ] 找不到控件：//div[contains(@class,'ant-modal-wrap')]//button[2] expected [true] but found [false]
+2019-04-25 15:38:00  [ TestNG:21231 ] - [ ERROR ]  [ 主体监控_编辑 ] 测试结果为：[ Fail ] 	没有找到：//span[@title='主体监控']
+2019-04-25 15:38:44  [ TestNG:11355 ] - [ ERROR ]  [ 主体监控_编辑 ] 测试结果为：[ Fail ] 	没有找到：//button[@type='submit']
+2019-04-25 15:43:42  [ TestNG:12732 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] unknown error: cannot determine loading status
+from unknown error: cannot determine loading status
+from disconnected: received Inspector.detached event
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:4715}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 941eb6a7280ff2503e458a0ee500536e
+2019-04-25 15:44:05  [ TestNG:11849 ] - [ ERROR ]  [ 机构管理_新增 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-04-25 15:44:14  [ TestNG:21300 ] - [ ERROR ]  [ 机构管理_查看 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-04-25 15:44:27  [ TestNG:33516 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-04-25 15:44:44  [ TestNG:51270 ] - [ ERROR ]  [ 机构管理_关联主体 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-04-25 15:44:59  [ TestNG:65990 ] - [ ERROR ]  [ 机构管理_接口调用 ] 测试结果为：[ Fail ] null
+2019-04-25 16:15:45  [ TestNG:14988 ] - [ ERROR ]  [ 机构管理_查看 ] 测试结果为：[ Fail ] null
+2019-04-25 16:17:56  [ TestNG:11359 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-04-25 16:18:47  [ TestNG:10628 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-04-25 16:23:21  [ TestNG:65098 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] 找不到控件：//div[@class='ant-col-8']//button[@type='button'] expected [true] but found [false]
+2019-04-25 16:23:59  [ TestNG:103141 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] 找不到控件：//p[contains(text(),'退出')] expected [true] but found [false]
+2019-04-25 16:25:58  [ TestNG:51825 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] 找不到控件：//div[@class='ant-col-8']//button[@type='button'] expected [true] but found [false]
+2019-04-25 16:29:38  [ TestNG:10983 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-04-25 16:31:40  [ TestNG:11078 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-04-25 16:44:16  [ TestNG:63858 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] 找不到控件：//input[@placeholder='请输入密码'] expected [true] but found [false]
+2019-04-25 16:45:02  [ TestNG:110441 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] 	没有找到：//p[contains(text(),'退出')]
+2019-04-25 16:45:04  [ TestNG:112025 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:2226}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 07e0103a54ac779c4417c0074a0b4cc7
+2019-04-25 16:46:04  [ TestNG:43820 ] - [ ERROR ]  [ 机构管理_充值 ] 测试结果为：[ Fail ] null
+2019-04-25 16:50:04  [ TestNG:10754 ] - [ ERROR ]  [ 机构管理_关联主体 ] 测试结果为：[ Fail ] 	没有找到：//span[contains(text(),'系统设置')]
+2019-04-25 16:50:41  [ TestNG:48287 ] - [ ERROR ]  [ 机构管理_接口调用 ] 测试结果为：[ Fail ] null
+2019-04-25 17:16:56  [ TestNG:11636 ] - [ ERROR ]  [ 用户管理_新增 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-04-25 17:18:00  [ TestNG:76191 ] - [ ERROR ]  [ 用户管理_查看 ] 测试结果为：[ Fail ] 找不到控件：//div[@class='ant-col-8']//button[@type='button'] expected [true] but found [false]
+2019-04-25 17:18:44  [ TestNG:119681 ] - [ ERROR ]  [ 用户管理_关联主体 ] 测试结果为：[ Fail ] 找不到控件：//li[@title='南大1'] expected [true] but found [false]
+2019-04-25 17:19:19  [ TestNG:154563 ] - [ ERROR ]  [ 用户管理_删除 ] 测试结果为：[ Fail ] 找不到控件：//li[@title='南大1'] expected [true] but found [false]
+2019-04-25 17:27:17  [ TestNG:18736 ] - [ ERROR ]  [ 用户管理_新增 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-04-25 17:27:36  [ TestNG:37085 ] - [ ERROR ]  [ 用户管理_查看 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-04-25 17:28:17  [ TestNG:78721 ] - [ ERROR ]  [ 用户管理_关联主体 ] 测试结果为：[ Fail ] 找不到控件：//li[@title='南大1'] expected [true] but found [false]
+2019-04-25 17:28:52  [ TestNG:113494 ] - [ ERROR ]  [ 用户管理_删除 ] 测试结果为：[ Fail ] 找不到控件：//li[@title='南大1'] expected [true] but found [false]
+2019-04-25 17:30:45  [ TestNG:79891 ] - [ ERROR ]  [ 用户管理_查看 ] 测试结果为：[ Fail ] 找不到控件：//span[contains(text(),'系统设置')] expected [true] but found [false]
+2019-04-25 17:32:19  [ TestNG:15138 ] - [ ERROR ]  [ 用户管理_查看 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-04-25 17:35:49  [ TestNG:79250 ] - [ ERROR ]  [ 用户管理_关联主体 ] 测试结果为：[ Fail ] 找不到控件：/html/body/div[3]/div/div[2]/div/div[1]/div[2]/div/div[1]/button expected [true] but found [false]
+2019-04-25 17:36:34  [ TestNG:124337 ] - [ ERROR ]  [ 用户管理_删除 ] 测试结果为：[ Fail ] 找不到控件：//div[@class='ant-col-8']//button[@type='button'] expected [true] but found [false]
+2019-04-25 17:53:53  [ TestNG:12537 ] - [ ERROR ]  [ 用户管理_新增 ] 测试结果为：[ Fail ] 控件上无信息 expected [true] but found [false]
+2019-04-25 17:56:47  [ TestNG:45869 ] - [ ERROR ]  [ 用户管理_新增 ] 测试结果为：[ Fail ] [ 用户管理_新增 ] input关键字需要data字段
+2019-04-25 17:57:26  [ TestNG:84991 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] 找不到控件：//*[@id='root']/div[1]/div[1]/div[2]/div[1]/div[1]/span[1] expected [true] but found [false]

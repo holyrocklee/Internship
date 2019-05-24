@@ -1,0 +1,31 @@
+2019-05-05 14:08:10  [ TestNG:41677 ] - [ ERROR ]  [ 贷后_项目列表_资产查询 ] 测试结果为：[ Fail ] 找不到控件：//li[contains(text(),'76292h')] expected [true] but found [false]
+2019-05-05 15:31:38  [ TestNG:32508 ] - [ ERROR ]  [ 贷后_项目列表_资产查询 ] 测试结果为：[ Fail ] 找不到控件：//span[@title='主体监控'] expected [true] but found [false]
+2019-05-05 15:32:13  [ TestNG:67507 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] 找不到控件：//*[@id='root']/div[1]/div[1]/div[2]/div[1]/div[1]/span[1] expected [true] but found [false]
+2019-05-05 17:01:18  [ TestNG:12204 ] - [ ERROR ]  [ 贷后_项目列表_资产查询 ] 测试结果为：[ Fail ] 	没有找到：//body/div[@id='root']/div[@class='app-ct']/div[@class='ant-layout ant-layout-has-sider']/div[@class='ant-layout']/div[@class='ant-layout-content']/div[@class='programContainer']/div[@class='table-page']/div[@class='table-body']/button[1]
+2019-05-05 17:10:14  [ TestNG:116431 ] - [ ERROR ]  [ 贷后_审核列表_审核 ] 测试结果为：[ Fail ] 	没有找到：//span[contains(text(),'系统设置')]
+2019-05-05 17:13:06  [ TestNG:115915 ] - [ ERROR ]  [ 贷后_审核列表_审核 ] 测试结果为：[ Fail ] 	没有找到：//span[contains(text(),'系统设置')]
+2019-05-05 17:13:13  [ TestNG:16878 ] - [ ERROR ]  [ 贷后_审核列表_审核 ] 测试结果为：[ Fail ] [ 贷后_审核列表_审核 ] input关键字需要data字段
+2019-05-05 17:13:41  [ TestNG:151119 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] 找不到控件：//*[@id='root']/div[1]/div[1]/div[2]/div[1]/div[1]/span[1] expected [true] but found [false]
+2019-05-05 17:13:50  [ TestNG:53962 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] 找不到控件：//p[contains(text(),'退出')] expected [true] but found [false]
+2019-05-05 17:21:40  [ TestNG:62870 ] - [ ERROR ]  [ 贷后_审核列表_审核 ] 测试结果为：[ Fail ] 找不到控件：//li[contains(text(),'yslwpl')] expected [true] but found [false]
+2019-05-05 17:30:13  [ TestNG:556 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] org.openqa.selenium.NoSuchWindowException : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=74.0.3729.108)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:13248}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.108, webStorageEnabled: true}
+Session ID: 8924f109e308f5e04e63f12904f47f5c
+*** Element info: {Using=xpath, value=//input[@placeholder='请输入手机号']}
+2019-05-05 17:30:14  [ TestNG:1230 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] org.openqa.selenium.NoSuchWindowException : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=74.0.3729.108)
+  (Driver info: chromedriver=74.0.3729.6 (255758eccf3d244491b8a1317aa76e1ce10d57e9-refs/branch-heads/3729@{#29}),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 74.0.3729.6 (255758eccf3d24..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:13248}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 74.0.3729.108, webStorageEnabled: true}
+Session ID: 8924f109e308f5e04e63f12904f47f5c

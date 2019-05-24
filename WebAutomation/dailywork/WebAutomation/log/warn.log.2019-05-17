@@ -1,0 +1,1 @@
+2019-05-17 17:01:48  [ TestNG:39968 ] - [ ERROR ]  [ 贷后_审核列表_审核 ] 测试结果为：[ Fail ] java.lang.AssertionError : 找不到控件：//span[@title='贷后资产监控'] expected [true] but found [false]

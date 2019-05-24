@@ -1,0 +1,33 @@
+2019-04-26 16:22:56  [ TestNG:113810 ] - [ ERROR ]  [ 贷后_资产列表_单笔录入 ] 测试结果为：[ Fail ] 	没有找到：//li[contains(text(),'1197lw')]
+2019-04-26 16:28:45  [ TestNG:11623 ] - [ ERROR ]  [ 贷后_资产列表_单笔录入 ] 测试结果为：[ Fail ] 	没有找到：//*[@id="root"]/div/div/div[2]/div[2]/div/div[2]/div/form/div/div[3]/div/div[2]/div/div/div/div
+2019-04-26 16:31:35  [ TestNG:94851 ] - [ ERROR ]  [ 贷后_资产列表_单笔录入 ] 测试结果为：[ Fail ] 找不到控件：//li[contains(text(),'72pr22')] expected [true] but found [false]
+2019-04-26 16:37:12  [ TestNG:120489 ] - [ ERROR ]  [ 贷后_资产列表_单笔录入 ] 测试结果为：[ Fail ] 	没有找到：//li[contains(text(),'qc30e9')]
+2019-04-26 16:41:04  [ TestNG:128005 ] - [ ERROR ]  [ 贷后_资产列表_单笔录入 ] 测试结果为：[ Fail ] 	没有找到：//div[contains(text(),'请选择所属项目')]
+2019-04-26 16:46:40  [ TestNG:10377 ] - [ ERROR ]  [ 贷后_资产列表_单笔录入 ] 测试结果为：[ Fail ] 	没有找到：//body/div[@id='root']/div[@class='app-ct']/div[@class='ant-layout ant-layout-has-sider']/div[@class='ant-layout']/div[@class='ant-layout-content']/div[@class='programContainer']/div[@class='table-page']/div[@class='table-body']/button[1]
+2019-04-26 16:48:38  [ TestNG:54423 ] - [ ERROR ]  [ 贷后_资产列表_单笔录入 ] 测试结果为：[ Fail ] 找不到控件：//li[contains(text(),'2qpc1g')] expected [true] but found [false]
+2019-04-26 16:50:01  [ TestNG:31720 ] - [ ERROR ]  [ 贷后_资产列表_单笔录入 ] 测试结果为：[ Fail ] 	没有找到：//*[@id="root"]/div/div/div[2]/div[2]/div/div[2]/div/button[1]
+2019-04-26 16:52:34  [ TestNG:13117 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9012}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 3c62c8c41d1ee5d055d6e79b04e70b1e
+*** Element info: {Using=xpath, value=//input[@placeholder='请输入手机号']}
+2019-04-26 16:52:35  [ TestNG:13745 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:9012}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 3c62c8c41d1ee5d055d6e79b04e70b1e
+2019-04-26 16:53:55  [ TestNG:71215 ] - [ ERROR ]  [ 贷后_资产列表_单笔录入 ] 测试结果为：[ Fail ] 找不到控件：//div[contains(@class,'ant-calendar-date-input-wrap')]//input[contains(@placeholder,'请选择首期还款时间')] expected [true] but found [false]
+2019-04-26 16:55:25  [ TestNG:71221 ] - [ ERROR ]  [ 贷后_资产列表_单笔录入 ] 测试结果为：[ Fail ] 找不到控件：//div[contains(@class,'ant-calendar-date-input-wrap')]//input[contains(@placeholder,'请选择首期还款时间')] expected [true] but found [false]
+2019-04-26 16:58:20  [ TestNG:19369 ] - [ ERROR ]  [ 贷后_资产列表_单笔录入 ] 测试结果为：[ Fail ] 	没有找到：//span[@class='switch_button']
+2019-04-26 16:59:45  [ TestNG:58815 ] - [ ERROR ]  [ 贷后_资产列表_单笔录入 ] 测试结果为：[ Fail ] null

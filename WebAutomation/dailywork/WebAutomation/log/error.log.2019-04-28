@@ -1,0 +1,69 @@
+2019-04-28 10:27:24  [ TestNG:60627 ] - [ ERROR ]  [ 贷后_资产列表_批量录入 ] 测试结果为：[ Fail ] 找不到控件：//li[contains(text(),'bvvdyz')] expected [true] but found [false]
+2019-04-28 10:36:43  [ TestNG:30544 ] - [ ERROR ]  [ 贷后_资产列表_批量录入 ] 测试结果为：[ Fail ] 	没有找到：//span[@class='switch_button']
+2019-04-28 10:37:29  [ TestNG:19526 ] - [ ERROR ]  [ 贷后_资产列表_批量录入 ] 测试结果为：[ Fail ] 	没有找到：//span[@class='switch_button']
+2019-04-28 11:39:02  [ TestNG:94233 ] - [ ERROR ]  [ 贷后_资产列表_资产查询 ] 测试结果为：[ Fail ] 找不到控件：//li[contains(text(),'issmrr')] expected [true] but found [false]
+2019-04-28 11:40:14  [ TestNG:165682 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:3095}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 9ea0e7b4981b436ce33aad6d3e12259c
+2019-04-28 13:35:57  [ TestNG:3436 ] - [ ERROR ]  [ 贷后_资产列表_资产查询 ] 测试结果为：[ Fail ] 	没有找到：//body//button[4]
+2019-04-28 14:59:23  [ TestNG:27100 ] - [ ERROR ]  [ 贷后_项目列表_新建 ] 测试结果为：[ Fail ] [ 贷后_项目列表_新建 ] input关键字需要data字段
+2019-04-28 15:01:37  [ TestNG:57145 ] - [ ERROR ]  [ 贷后_项目列表_新建 ] 测试结果为：[ Fail ] 找不到控件：//input[@placeholder='项目名称'] expected [true] but found [false]
+2019-04-28 15:43:03  [ TestNG:64381 ] - [ ERROR ]  [ 贷后_项目列表_修改 ] 测试结果为：[ Fail ] 找不到控件：//td[@class='ant-table-selection-column']//input[@class='ant-checkbox-input'] expected [true] but found [false]
+2019-04-28 15:53:40  [ TestNG:69674 ] - [ ERROR ]  [ 贷后_项目列表_新建 ] 测试结果为：[ Fail ] 找不到控件：//span[contains(text(),'暂无数据')] expected [true] but found [false]
+2019-04-28 17:03:26  [ TestNG:121369 ] - [ ERROR ]  [ 贷后_项目列表_资产操作_单笔导入_车辆监控 ] 测试结果为：[ Fail ] 	没有找到：//div[@id='root']//form[contains(@class,'ant-form ant-form-horizontal ant-advanced-search-form')]//button[1]
+2019-04-28 17:18:50  [ TestNG:8496 ] - [ ERROR ]  [ 贷后_项目列表_资产操作_单笔导入_车辆监控 ] 测试结果为：[ Fail ] 	没有找到：//span[@title='主体监控']
+2019-04-28 17:20:00  [ TestNG:60722 ] - [ ERROR ]  [ 贷后_项目列表_资产操作_单笔导入_车辆监控 ] 测试结果为：[ Fail ] 找不到控件：//span[contains(text(),'查看资产')] expected [true] but found [false]
+2019-04-28 17:24:35  [ TestNG:25587 ] - [ ERROR ]  [ 贷后_项目列表_资产操作_单笔导入_车辆监控 ] 测试结果为：[ Fail ] 	没有找到：//span[1]//button[1]
+2019-04-28 17:24:38  [ TestNG:28885 ] - [ ERROR ]  [ 贷后_项目列表_资产操作_单笔导入_车辆监控 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:5706}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: ad299c910aa527b5f19643fe7b14806b
+2019-04-28 17:26:13  [ TestNG:27342 ] - [ ERROR ]  [ 贷后_项目列表_资产操作_单笔导入_车辆监控 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:5990}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: c1ae67ef0956902b79d5a3655326a5aa
+2019-04-28 17:26:17  [ TestNG:31306 ] - [ ERROR ]  [ 贷后_项目列表_资产操作_单笔导入_车辆监控 ] 测试结果为：[ Fail ] no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:5990}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: c1ae67ef0956902b79d5a3655326a5aa
+2019-04-28 17:29:33  [ TestNG:87747 ] - [ ERROR ]  [ 贷后_项目列表_资产操作_单笔导入_车辆监控 ] 测试结果为：[ Fail ] 找不到控件：//*[@id="root"]/div/div/div[2]/div[2]/div/div[2]/div/form/div/div[6]/div/div[2]/div/div[2]/div/div expected [true] but found [false]
+2019-04-28 17:34:35  [ TestNG:90687 ] - [ ERROR ]  [ 贷后_项目列表_资产操作_单笔导入_车辆监控 ] 测试结果为：[ Fail ] 找不到控件：//li[contains(text(),'hyvtwt')] expected [true] but found [false]
+2019-04-28 17:35:12  [ TestNG:128330 ] - [ ERROR ]  [ 退出账号 ] 测试结果为：[ Fail ] 找不到控件：//p[contains(text(),'退出')] expected [true] but found [false]
+2019-04-28 17:38:15  [ TestNG:96695 ] - [ ERROR ]  [ 贷后_项目列表_资产操作_单笔导入_车辆监控 ] 测试结果为：[ Fail ] 找不到控件：//p[@class='topHead'] expected [true] but found [false]
+2019-04-28 17:40:21  [ TestNG:94973 ] - [ ERROR ]  [ 贷后_项目列表_资产操作_单笔导入_车辆监控 ] 测试结果为：[ Fail ] 找不到控件：//p[@class='topHead'] expected [true] but found [false]
+2019-04-28 17:45:01  [ TestNG:130010 ] - [ ERROR ]  [ 贷后_项目列表_资产操作_单笔导入_车辆监控 ] 测试结果为：[ Fail ] 	没有找到：//li[contains(text(),'mxcjkl')]
+2019-04-28 17:45:11  [ TestNG:139996 ] - [ ERROR ]  [ 贷后_项目列表_资产操作_单笔导入_车辆监控 ] 测试结果为：[ Fail ] chrome not reachable
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'ROCKLEE', ip: '192.168.0.96', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 73.0.3683.68 (47787ec04b6e3..., userDataDir: C:\Users\che300\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:8928}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), rotatable: false, setWindowRect: true, strictFileInteractability: false, takesHeapSnapshot: true, takesScreenshot: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: 15fc35b3e99944c9c9f433c269c596a9
+2019-04-28 17:52:28  [ TestNG:97875 ] - [ ERROR ]  [ 贷后_资产列表_单笔录入_人车全监控 ] 测试结果为：[ Fail ] 找不到控件：//li[contains(text(),'xrqrtg')] expected [true] but found [false]

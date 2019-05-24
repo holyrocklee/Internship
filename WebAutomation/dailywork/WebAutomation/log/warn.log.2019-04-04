@@ -1,0 +1,6 @@
+2019-04-04 09:38:06  [ TestNG:4470 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] 	没有找到：//div[contains(text(),'请选择')]
+2019-04-04 09:38:38  [ TestNG:7465 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] 	没有找到：//div[contains(text(),'请选择')]
+2019-04-04 09:41:55  [ TestNG:61072 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] 找不到控件：/html/body/div[4]/div/div[2]/div/div[1]/div[2]/form/div[4]/div[2]/div/span/div/span/input expected [true] but found [false]
+2019-04-04 10:07:46  [ TestNG:40219 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] 找不到控件：//li[contains(text(),'eb4t7k')] expected [true] but found [false]
+2019-04-04 10:12:21  [ TestNG:45517 ] - [ ERROR ]  [ 贷前反欺诈_批量导入 ] 测试结果为：[ Fail ] 找不到控件：//li[contains(text(),'xcuviw')] expected [true] but found [false]
+2019-04-04 10:16:45  [ TestNG:37907 ] - [ ERROR ]  [ 登录账号 ] 测试结果为：[ Fail ] 找不到控件：//li[contains(text(),'重庆车云')] expected [true] but found [false]
