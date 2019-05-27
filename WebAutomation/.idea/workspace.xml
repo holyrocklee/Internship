@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cafdba6-b4e4-4749-9ecd-6f1f297837d3" name="Default Changelist" comment="" />
+    <list default="true" id="0cafdba6-b4e4-4749-9ecd-6f1f297837d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/index.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/util/commons.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="8" />
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -23,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/util/index.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+              <caret line="44" column="64" lean-forward="true" selection-start-line="44" selection-start-column="64" selection-end-line="44" selection-end-column="64" />
               <folding>
                 <element signature="e#109#118#0" expanded="true" />
               </folding>
@@ -39,6 +43,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -110,6 +117,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/util" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
@@ -313,11 +321,11 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Python Console" order="1" weight="0.32934782" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.30869564" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.30827886" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32934782" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.28913045" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.28867102" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.425" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -560,13 +568,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/util/dynamic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/util/dynamic.py" />
     <entry file="file://$PROJECT_DIR$/util/excel_util.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
@@ -580,14 +582,14 @@
     <entry file="file://$PROJECT_DIR$/util/commons.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="8" />
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/util/index.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <caret line="44" column="64" lean-forward="true" selection-start-line="44" selection-start-column="64" selection-end-line="44" selection-end-column="64" />
           <folding>
             <element signature="e#109#118#0" expanded="true" />
           </folding>

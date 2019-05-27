@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # 开发人员   ：Rocklee
 # 开发时间   ：2019/5/24  12:44 
-# 文件名称   ：dynamic.PY
+# 文件名称   ：index.PY
 # 开发工具   ：PyCharm
 import re
 import pymysql
@@ -12,7 +12,7 @@ def ways_name():
     return model_name
 
 def data_id():
-    p1 = re.compile(r'[(](.*?)[)]', re.S)  # 最小匹配
+    p1 = re.compile(r'[(](\d+)[)]', re.S)  # 最小匹配
     target_mode, target_func = url.split(".")
     model_num = re.findall(p1, target_mode)[0]
     return model_num
