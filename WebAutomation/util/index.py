@@ -46,7 +46,6 @@ def judge_input(url):
         return 0
     else:
         pass
-        return 1
 
 if __name__ == '__main__':
     #数据库配置
