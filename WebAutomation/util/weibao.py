@@ -17,13 +17,10 @@ with open('D:\\cxli\\api\\维保\\result_20181216.txt', 'r',encoding='utf-8') as
 results = list(map(lambda x: rq.post(url, {'accident_record': str(x)}).json(), data))
 print(results)
 
-i = 0
 engine_result = []
 for result in results:
-    i = i+1
-    print(i)
     print(result)
-    result_rep = str(result).replace("'",'"')
+    result_rep = str(result).replace("'",'"')  #把输出的字符串格式改为json格式，单引号变为双引号
     result_rep = json.loads(result_rep)
     print(result_rep)
     engine = jsonpath.jsonpath(result_rep,"$.data.[?(@.code == 'engine')]")

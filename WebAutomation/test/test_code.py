@@ -3,11 +3,13 @@
 # 开发时间   ：2019/4/18  18:56 
 # 文件名称   ：test.PY
 # 开发工具   ：PyCharm
-import requests
+
 import json
 import jsonpath
 from requests_toolbelt import MultipartEncoder
 from util.http_util import get_context
+
+# This file is used to test single request.
 
 def request(data,url):
     data=MultipartEncoder(fields=data)
