@@ -9,3 +9,5 @@ print(imagedata)
 file = open('D:\\DownLoad\\pict\\car.jpg',"wb")
 file.write(imagedata)
 file.close()
+for gourp in regex.inte('sdfsdf',str):
+    group.group
