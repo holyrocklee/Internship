@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cafdba6-b4e4-4749-9ecd-6f1f297837d3" name="Default Changelist" comment="update test file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyter_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter_test.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/util/excel_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/excel_data.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,10 +62,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/util/excel_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            <state relative-caret-position="251">
+              <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
               <folding>
-                <element signature="e#113#134#0" expanded="true" />
+                <element signature="e#70#89#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -382,7 +384,7 @@
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5007907" side_tool="true" weight="0.28867102" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32934782" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49920928" visible="true" weight="0.28867102" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.49920928" visible="true" weight="0.5533769" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4248366" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -695,10 +697,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/util/excel_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        <state relative-caret-position="251">
+          <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
           <folding>
-            <element signature="e#113#134#0" expanded="true" />
+            <element signature="e#70#89#0" expanded="true" />
           </folding>
         </state>
       </provider>
